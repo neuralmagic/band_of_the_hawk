@@ -6,3 +6,7 @@ Micheal
 Rahul
 George
 
+
+Goals:
+Mimick https://transformer.huggingface.co/
+
